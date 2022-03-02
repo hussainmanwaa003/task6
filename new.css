@@ -1,0 +1,13 @@
+.div1{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    transition-duration: 2s;
+    transform: rotate(6deg);
+}
+.div1:hover{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    transform: rotate(36deg);
+}
